@@ -1,4 +1,9 @@
-# Google Analytics Reporting API With Python
+## Google Analytics Reporting API With Python
+----------------------------------------------------------------------------------------
+# UA (GA3) version of Google Analytics has been deprecated and removed by Google in 2024
+# This code is no longer valid, refer to https://github.com/tanyazyabkina/GA4_API_python
+----------------------------------------------------------------------------------------
+
 How to send requests and process responses from Google Analytics Reporting API (including pivot!)
 
 How to set up and use Google Analytics Reporting API:
